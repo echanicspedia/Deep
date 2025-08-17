@@ -1,0 +1,5 @@
+"""
+PyGithub>=1.59
+requests>=2.25
+esprima>=4.0
+"""
